@@ -1,0 +1,87 @@
+.card-body {
+    padding:  0;
+}
+
+.card {
+    margin-bottom: 1rem;
+    border: none;
+}
+
+.card-title {
+    margin-bottom: 0rem;
+    margin-top: 0rem;
+}
+
+button {
+    background-color: #25a368;
+    margin-top: -0.75rem;
+    margin-bottom: 0.45rem;
+}
+
+.fa {
+    margin-top: 1rem;
+}
+
+img {
+    object-fit: none;
+    object-position: 0 0;
+    width: 50px;
+    height: 52px;
+    transform: scale(0.6);
+  }
+
+  .blog {
+    object-position: -485px -169px;
+  }
+
+  .paper {
+    object-position: -785px -169px;
+  }
+
+  .website {
+    object-position: -1085px -169px;
+  }
+
+  .press {
+    object-position: -1385px -169px;
+  }
+
+  .description {
+    object-position: -485px -399px;
+  }
+
+  .imedia {
+    object-position: -785px -399px;
+  }
+
+  .book {
+    object-position: -1085px -399px;
+  }
+
+  .video {
+    object-position: -1385px -399px;
+  }
+
+  .news {
+    object-position: -485px -629px;
+  }
+
+  .brochure {
+    object-position: -785px -629px;
+  }
+
+  .custom {
+    object-position: -1085px -629px;
+  }
+
+  .contest {
+    object-position: -1385px -629px;
+  }
+
+  .template {
+    object-position: -636px -855px;
+  }
+
+  .spreadsheet {
+    object-position: -1235px -855px;
+  }

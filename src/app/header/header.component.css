@@ -1,0 +1,41 @@
+
+
+img {
+    object-fit: none;
+    object-position: 0 0;
+    width: 47px;
+    height: 46px;
+    transform: scale(0.7);
+    margin-left: 0.5rem;
+  }
+
+img:hover {
+    cursor: pointer;
+}
+
+.rupee {
+    object-position: -1182px -15px;
+}
+
+.notification {
+    object-position: -1282px -15px;
+}
+
+.user {
+    object-position: -1382px -15px;
+}
+
+.cart {
+    object-position: -1482px -15px;
+}
+
+.brand {
+    object-position: -459px -15px;
+}
+
+@media only screen and (max-width: 907px) {
+    .icons {
+        display: none;
+    }
+    
+}

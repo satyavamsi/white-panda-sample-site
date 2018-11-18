@@ -1,0 +1,48 @@
+.sidenav {
+    height: 100%;
+    width: 50px;
+    position: fixed;
+    z-index: -1;
+    top: 40px;
+    left: 0;
+    background-color: #fff;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+a {
+    padding: 9px;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    
+    color: #000;
+    display: block;
+}
+
+ a:hover {
+    cursor: pointer;
+    color: darkgray;
+    background-color: darkgrey
+}
+
+img {
+    object-fit: none;
+    object-position: 0 0;
+    width: 30px;
+    height: 30px;
+    transform: scale(0.7);
+  }
+
+.menu {
+    object-position: -21px -94px;
+}
+
+.note {
+    object-position: -21px -162px;
+}
+
+.save {
+    object-position: -21px -234px;
+}
