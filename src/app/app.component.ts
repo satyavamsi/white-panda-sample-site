@@ -28,7 +28,7 @@ export class AppComponent implements OnInit{
     this.cards.push(new card('Custom Content', '400-500 Words','custom'));
     this.cards.push(new card('Contest', '400-500 Words','contest'));
 
-    this.extraCards.push(new card('Order from Template', '100-200 words','template'));
-    this.extraCards.push(new card('Order via Spreadsheets', '100-200 words','spreadsheet'));
+    this.extraCards.push(new card('Order from Template', 'You can give order from templates','template'));
+    this.extraCards.push(new card('Order via Spreadsheets', 'Its useful when giving bul order','spreadsheet'));
   }
 }
